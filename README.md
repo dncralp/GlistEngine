@@ -96,7 +96,7 @@ On Linux:
 5- First of all, you need to clone the zbin repo. Clone the zbin repo by writing one of these commands on command line:
 
 On Windows:
->  git clone https://github.com/yourgithubusername/glistzbin-win64.git
+>  git clone https://github.com/dncralp/glistzbin-win64.git
 
 On MacOS:
 >  git clone https://github.com/yourgithubusername/glistzbin-macos.git
@@ -119,7 +119,7 @@ On Linux:
 
 7- Clone the GlistEngine repo
 
-> git clone https://github.com/yourgithubusername/glistengine.git
+> git clone https://github.com/dncralp/glistengine.git
 
 
 8- Go to myglistapps folder
@@ -136,7 +136,7 @@ On Linux:
 
 9- Clone the GlistApp repo
 
-> git clone https://github.com/yourgithubusername/glistapp.git
+> git clone https://github.com/dncralp/glistapp.git
 
 
 10- Run the GlistEngine
